@@ -1,4 +1,4 @@
-# Hello, I'm Sejal 
+# <marquee>Hello, I'm Sejal</marquee> 
 [![GitHub followers](https://img.shields.io/github/followers/sejalsharma0138?label=Follow&style=social)](https://github.com/sejalsharma0138/?tab=follow)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com//in/sejal-sharma-6964491a0/)](https://www.linkedin.com//in/sejal-sharma-6964491a0/)
 ![Hirable Badge](https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen)
@@ -10,7 +10,7 @@ I'm a last year CSE student at UIET,Punjab University, Chandigarh. I am an upcom
 <p>
  
   <img alt="Python" src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white" />
-  
+  <img alt="C++" src="https://img.shields.io/badge/-C++-red?style=flat-square&logo=C++&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
