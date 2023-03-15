@@ -1,10 +1,10 @@
 # Hello, I'm Sejal 
-(https://github.com/sejalsharma0138/?tab=follow)
+[![GitHub followers](https://img.shields.io/github/followers/sejalsharma0138?label=Follow&style=social)](https://github.com/sejalsharma0138/?tab=follow)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com//in/sejal-sharma-6964491a0/)](https://www.linkedin.com//in/sejal-sharma-6964491a0/)
 ![Hirable Badge](https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen)
 
 
-I'm a last year CSE undergrad at UIET,Punjab University,Chandigarh. I am an upcoming business analyst at EXL sevices. I love working on data to draw valuable insights using python and tableau. Besides I have a deep intrest in artificial intelligence. I've been working with C++,Python and Java.
+I'm a last year CSE student at UIET,Punjab University, Chandigarh. I am an upcoming business analyst at EXL sevices. I love working on data to draw valuable insights using python and tableau. Besides I have a deep intrest in artificial intelligence. I've been working with C++,Python and Java.
 
 ### Technologies I'm familiar with
 <p>
