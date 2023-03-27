@@ -4,7 +4,7 @@
 ![Hirable Badge](https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen)
 
 
-I'm a last year CSE student at UIET,Punjab University, Chandigarh and upcoming business analyst at EXL sevices. I practice data structures and algorithms in C++ AND  have been working on python and tableau for data analysis. Besides I have a deep intrest in artificial intelligence.
+I'm a last year CSE student at UIET,Punjab University, Chandigarh. I practice data structures and algorithms in C++ AND  have been working on python and tableau for data analysis. Besides I have a deep intrest in artificial intelligence.
 
 🌱 Nowadays I am learning JAVA programming.
 
