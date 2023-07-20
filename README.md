@@ -6,7 +6,7 @@
 
 I'm a last year CSE student at UIET,Punjab University, Chandigarh. I practice data structures and algorithms in C++ AND  have been working on python and tableau for data analysis. Besides I have a deep intrest in artificial intelligence.
 
-🌱 Nowadays I am learning JAVA programming.
+
 
 🔭 I’m currently working on the project Depth estimation from monocular images as an intern at CSIO-CSIR.
 
