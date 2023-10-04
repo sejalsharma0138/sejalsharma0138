@@ -22,9 +22,7 @@ I'm a last year CSE student at UIET,Punjab University, Chandigarh. I practice da
 
 </p>
 
-<!-- 
-**gautam678/gautam678** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
