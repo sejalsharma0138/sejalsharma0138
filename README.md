@@ -4,11 +4,11 @@
 ![Hirable Badge](https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen)
 
 
-I'm a last year CSE student at UIET,Punjab University, Chandigarh. I practice data structures and algorithms in C++ AND  have been working on python and tableau for data analysis. Besides I have a deep intrest in artificial intelligence.
+I'm an Associate Business Analyst at Skyline and Orbit, a leading semiconductor manufacturing and supplier organization. I completed my Bachelor's in CSE from UIET,Punjab University, Chandigarh in Jun,2023. I have experience of working in multiple computer science domains including FE (HTML,CSS,Javascript with React Framework), BE (Python Flask/Fast API and Node JS), SQL development , Data Science (Classical ML algos, Deep Learning -CNN,ANN,RNN,LSTM), Data Analysis and Visualization.
 
 
 
-🔭 I’m currently working on the project Depth estimation from monocular images as an intern at CSIO-CSIR.
+🔭 I have worked on multiple projects during my college as well as during multiple internships and as an FTE at Skyline and Orbit
 
 ### Technologies I'm familiar with
 <p>
