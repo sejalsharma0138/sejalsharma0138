@@ -5,10 +5,6 @@
 
 
 
-[![GitHub followers](https://img.shields.io/github/followers/sejalsharma0138?label=Follow&style=social)](https://github.com/sejalsharma0138/?tab=follow)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com//in/sejal-sharma-6964491a0/)](https://www.linkedin.com//in/sejal-sharma-6964491a0/)
-![Hirable Badge](https://img.shields.io/badge/Open%20to%20Work-Yes-brightgreen)
-
 
 I'm an Associate Business Analyst at Skyline and Orbit, a leading semiconductor manufacturing and supplier organization. I completed my Bachelor's in CSE from UIET,Punjab University, Chandigarh in Jun,2023. I have experience of working in multiple computer science domains including FE (HTML,CSS,Javascript with React Framework), BE (Python Flask/Fast API and Node JS), SQL development , Data Science (Classical ML algos, Deep Learning -CNN,ANN,RNN,LSTM), Data Analysis and Visualization.
 
