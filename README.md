@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Sejal Sharma!</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/your-username?style=social" alt="GitHub followers">
+  
   <a href="https://www.linkedin.com/in/sejal-sharma0138/">
     <img src="https://img.shields.io/badge/-Sejal%20Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
