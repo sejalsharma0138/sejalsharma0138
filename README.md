@@ -33,7 +33,7 @@ I'm an **Associate Business Analyst** at **Skyline and Orbit**, a leading semico
 
 ---
 
-## 🛠️ Technologies & Tools  
+##### 🛠️ Technologies & Tools  
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
