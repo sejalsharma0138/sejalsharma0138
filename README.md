@@ -33,16 +33,6 @@ I'm an **Associate Business Analyst** at **Skyline and Orbit**, a leading semico
 
 ---
 
-##### 🛠️ Technologies & Tools  
-<p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white" />
-  <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-</p>
-
----
 
 ## 🚀 Current Focus  
 ✅ Building a **Real-Time AI Fraud Detection System** for fintech using Kafka, RabbitMQ, Redis, and Neo4j.  
