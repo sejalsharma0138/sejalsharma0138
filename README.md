@@ -11,7 +11,7 @@
 ---
 
 ## 👩‍💻 About Me  
-I'm an **Associate Business Analyst** at **Skyline and Orbit**, a leading semiconductor manufacturing and supplier organization.  
+I'm a **Software Developer** at **Skyline and Orbit**, a leading semiconductor manufacturing and supplier organization.  
 
 🎓 Graduated with a **Bachelor's degree in Computer Science and Engineering** from **UIET, Punjab University, Chandigarh** in **June 2023** (CGPA: **8.56**).  
 
